@@ -1,4 +1,0 @@
-Agile
-=====
-
-Agile
